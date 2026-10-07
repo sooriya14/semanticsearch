@@ -1,0 +1,31 @@
+query_id,query
+q01,retrieval augmented generation for question answering
+q02,reducing hallucinations in large language models
+q03,efficient fine-tuning of large language models with low-rank adapters
+q04,graph neural networks for molecular property prediction
+q05,diffusion models for image generation
+q06,adversarial examples and robustness of image classifiers
+q07,federated learning with non-iid client data
+q08,reinforcement learning from human feedback
+q09,vision transformers for image classification
+q10,dense passage retrieval for open-domain search
+q11,speech recognition for low-resource languages
+q12,code generation with language models
+q13,differential privacy in machine learning training
+q14,multi-agent reinforcement learning cooperation
+q15,explainability methods for deep neural networks
+q16,autonomous driving trajectory prediction
+q17,medical image segmentation with deep learning
+q18,knowledge distillation to compress neural networks
+q19,detecting fake news and misinformation on social media
+q20,recommender systems using user behavior sequences
+q21,neural machine translation
+q22,3D scene reconstruction from multiple images
+q23,time series forecasting with transformers
+q24,fairness and bias in machine learning models
+q25,robot manipulation learning from demonstrations
+q26,self-supervised contrastive representation learning
+q27,prompting techniques that improve reasoning in language models
+q28,detecting malware using machine learning
+q29,continual learning without catastrophic forgetting
+q30,sentiment analysis of product reviews
